@@ -1,9 +1,9 @@
-html{
+ht	ml{
 	scroll-behavior: smooth;
 }
 
 .gradiente{
-	background-image: linear-gradient(to right, #1E90FF, #E0FFFF);
+	background-image: linear-gradient(to bottom, #1E90FF, #E0FFFF);
 }
 
 #sobre{
@@ -28,3 +28,5 @@ html{
 	font-weight: 700;
 	margin-bottom: 2vh;
 }
+
+

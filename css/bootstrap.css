@@ -414,6 +414,18 @@ h6, .h6 {
   line-height: 1.2;
 }
 
+.display-5 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-5{
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -6615,7 +6627,6 @@ a.close.disabled {
   color: #FF4500;
   background-color: #FFFF00;
   border-radius: 40%;
-  text-shadow: 2px 2px 3px #ADFF2F;
   text-align: center;
 }
 
